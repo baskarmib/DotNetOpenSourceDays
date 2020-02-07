@@ -20,6 +20,7 @@ Tentative Date of Event will be in April 2020 between 8.30 AM US EST to 6.00 PM 
 
 Newbie speakers are welcome to contribute as well.  We encourage participants from all.
 
+Call for Speakers open till Feb-25-2020.
 
 # Code of Conduct
 
