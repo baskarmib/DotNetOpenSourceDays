@@ -21,7 +21,8 @@ Date will be decided later, once we start getting submissions from speakers who 
 Newbie speakers are welcome to contribute as well.  We encourage participants from all.
 
 
-#Code of Conduct
+# Code of Conduct
+
 The event will follow code of conduct maintained by .Net Foudation. Please give it a read before applying to speak.
 https://dotnetfoundation.org/code-of-conduct
 
