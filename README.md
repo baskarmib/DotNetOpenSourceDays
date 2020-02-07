@@ -1,4 +1,4 @@
-# DotNetOpenSourceDays
+# DotNet OpenSource Days
 Repository for Dot Net Open Source Days
 
 This Repository will be used to track all talk submissions from Speakers who are interested to speak at the first virtual version of .Net Open Source Days.
