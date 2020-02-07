@@ -18,7 +18,7 @@ Any topics related to .Net Open Source Ecosystem be it .Net based Open Source Li
 
 Tentative Date of Event will be in April 2020 between 8.30 AM US EST to 6.00 PM US PST.
 
-Newbie speakers are welcome to contribute as well.  We encourage participants from all.
+Newbie speakers are welcome to contribute as well.  We encourage participants from all .Net User Groups to apply.
 
 Call for Speakers open till Feb-25-2020.
 
@@ -28,3 +28,4 @@ The event will follow code of conduct maintained by .Net Foudation. Please give 
 https://dotnetfoundation.org/code-of-conduct
 
 Any violation of code of conduct can be reported through Issues in this repository.
+
