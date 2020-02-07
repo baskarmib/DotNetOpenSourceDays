@@ -16,7 +16,7 @@ Fork the repo and raise a pull request with your talk details -
 
 Any topics related to .Net Open Source Ecosystem be it .Net based Open Source Libraries or Frameworks. I will leave it to your imagination but it should be Open Source and .Net based.
 
-Tentative Date of Event will be in April 2020 between 8.30 AM US EST to 6.00 PM US PST.
+Tentative Date of Event is Friday April-17-2020 between 8.30 AM US EST to 6.00 PM US PST.
 
 Newbie speakers are welcome to contribute as well.  We encourage participants from all .Net User Groups to apply.
 
