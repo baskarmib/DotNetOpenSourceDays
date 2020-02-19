@@ -5,13 +5,17 @@ This Repository will be used to track all talk submissions from Speakers who are
 
 Fork the repo and raise a pull request with your talk details -
 
-1. Title of Talk
+1. Title of Talk - **NoSQL Design Patterns You Need to Know**
 
-2. Short Abstract -
+2. Short Abstract - **In this talk we’ll dive-deep into NoSQL design patterns such as computed, bucket, tree, and others. In addition to good design patterns, we’ll take a look at some anti-patterns to get a more complete picture of the do’s and don’ts when it comes to designing our NoSQL databases.**
 
-3. Audience Level - Beginner, Intermediate, Advanced
+3. Audience Level - **Beginner**, Intermediate, Advanced
 
-4. Speaker Bio Details and Social Media Handle
+4. Speaker Bio Details and Social Media Handle - 
+
+**Ado Kukic**
+**@kukicado**
+**Ado is a full-stack developer and senior developer advocate at MongoDB as well as a Google Developer Expert for Web Technologies. Mixing his passion of programming and education, he creates tutorials, talks, courses, and other educational content focusing on databases, serverless technologies, security, authentication, and much more. On the front-end, he prefers Angular, while on the backend he flip-flops between Node.js and Golang.**
 
 
 Any topics related to .Net Open Source Ecosystem be it .Net based Open Source Libraries or Frameworks. I will leave it to your imagination but it should be Open Source and .Net based.
