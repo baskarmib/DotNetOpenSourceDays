@@ -20,7 +20,7 @@ Tentative Date of Event is Friday April-17-2020 between 8.30 AM US EST to 6.00 P
 
 Newbie speakers are welcome to contribute as well.  We encourage participants from all .Net User Groups to apply.
 
-Call for Speakers open till Feb-25-2020.
+Call for Speakers open extended till Mar-15-2020.
 
 # Code of Conduct
 
@@ -28,17 +28,4 @@ The event will follow code of conduct maintained by .Net Foudation. Please give 
 https://dotnetfoundation.org/code-of-conduct
 
 Any violation of code of conduct can be reported through Issues in this repository.
-
-# Selection Process
-Once we get enough submissions we will start review on Feb-26-2020.
-
-Community Members can share their thoughts against the pull request. They can upvote or downvote the pull request.
-
-The request which gets the higher number of votes will be selected to speak.
-
-The reason for having this repo in Github is to keep the process as open and transparent as possible.
-
-.Net Community be ready to vote on Feb-26-2020.
-
-
 
