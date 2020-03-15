@@ -24,7 +24,7 @@ Call for Speakers open extended till Mar-15-2020.
 
 # Code of Conduct
 
-The event will follow code of conduct maintained by .Net Foudation. Please give it a read before applying to speak.
+The event will follow code of conduct maintained by .Net Foundation. Please give it a read before applying to speak.
 https://dotnetfoundation.org/code-of-conduct
 
 Any violation of code of conduct can be reported through Issues in this repository.
