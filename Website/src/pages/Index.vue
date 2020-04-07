@@ -1,16 +1,16 @@
 <template>
 <Layout> 
   <div> 
-  <section class="hero is-light is-small"> 
-  <div class="hero-body">
+  <div class="hero is-light is-small">
+    <br>
     <div class="container author content has-text-centered">
       <g-image alt="Logo" class="image" src="~/assets/img/dotNetx.png" />   
     </div>
-  </div>
-  </section>
+  </div>  
 <section class="hero is-light is-fullheight-with-navbar">  
   <div class="hero-head">
     <div class="container content has-text-centered">   
+    <br>
     <h2 class="subtitle">
     Join us for the first virtual conference on April-17-2020.
     </h2>
