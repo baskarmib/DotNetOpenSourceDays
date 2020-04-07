@@ -22,28 +22,28 @@
   <div class="column">
   <article class="media">
   <figure class="media-centered">
-    <p class="image is-128x128">
+    <div class="image is-128x128">
       <g-image class="image" alt="Chris Woodruff" src="~/assets/img/chris.jpg" /> 
-    </p>
-     <p>
+    </div>
+     <div>
         <strong>Chris Woodruff</strong> 
         <br>    
         <small>@cwoodruff</small> 
-      </p>
+      </div>
   </figure> 
   </article>
   </div>
   <div class="column">
  <article class="media">
   <figure class="media-centered">
-    <p class="image is-128x128">
+    <div class="image is-128x128">
       <g-image class="image" alt="Matt Eland" src="~/assets/img/Matt.png" /> 
-    </p>
-     <p>
+    </div>
+     <div>
         <strong>Matt Eland</strong> 
         <br>    
         <small>@integerman</small> 
-      </p>
+      </div>
   </figure>
  
   </article>
@@ -51,14 +51,14 @@
    <div class="column">
  <article class="media">
   <figure class="media-centered">
-    <p class="image is-128x128">
+    <div class="image is-128x128">
       <g-image class="image" alt="Rob Richardson" src="~/assets/img/Rob.png" /> 
-    </p>
-     <p>
+    </div>
+     <div>
         <strong>Rob Richardson</strong> 
         <br>    
         <small>@rob_rich</small> 
-      </p>
+      </div>
   </figure>
  
   </article>
@@ -66,14 +66,14 @@
    <div class="column">
  <article class="media">
   <figure class="media-centered">
-    <p class="image is-128x128">
+    <div class="image is-128x128">
       <g-image class="image" alt="Ado Kukic" src="~/assets/img/ado.jpg" /> 
-    </p>
-     <p>
+    </div>
+     <div>
         <strong>Ado Kukic</strong> 
         <br>    
         <small>@KukicAdo</small> 
-      </p>
+      </div>
   </figure>
  
   </article>
@@ -81,14 +81,14 @@
    <div class="column">
  <article class="media">
   <figure class="media-centered">
-    <p class="image is-128x128">
+    <div class="image is-128x128">
       <g-image class="image" alt="Patrick Kelly" src="~/assets/img/patrick.jpg" /> 
-    </p>
-     <p>
+    </div>
+     <div>
         <strong>Patrick Kelly</strong> 
         <br>    
         <small>@pkell7</small> 
-      </p>
+      </div>
   </figure>
  
   </article>
