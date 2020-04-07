@@ -1,5 +1,6 @@
 <template>
-  <Layout>  
+  <Layout> 
+  <div>  
   <section class="hero is-light is-small">
   <div class="hero-body">
     <div class="container author content has-text-centered">
@@ -13,7 +14,7 @@
     <h2 class="subtitle">
     Join us for the first virtual conference on April-17-2020.
     </h2>
-    <br>
+    <br></br>
     <g-link class="button is-info" to="https://www.eventbrite.com/e/dot-net-open-source-days-virtual-conference-tickets-101833546880">RSVP</g-link>
     </div>
   </div>
@@ -74,8 +75,7 @@
         <br>    
         <small>@KukicAdo</small> 
       </div>
-  </figure>
- 
+  </figure> 
   </article>
   </div>
    <div class="column">
@@ -99,7 +99,7 @@
    <h2 class="subtitle">
     Schedule
    </h2>
-   <br>
+   <br></br>
    <table class="table">
    <thead>
     <tr>
@@ -147,12 +147,11 @@
     <td><g-link to="/content/sessions/the-definitive-deep-dive-into-the-git-folder/">The definitive deep dive into the .git folder</g-link></td>
     </tr>  
    </table>
-   <br>
+   <br></br>
   </div>
   </div>
 </section>
- 
-
+</div>
 </Layout>
 </template>
 
