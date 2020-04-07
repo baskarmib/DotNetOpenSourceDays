@@ -1,6 +1,5 @@
 <template>
-<Layout> 
-  <div> 
+<Layout>   
   <div class="hero is-light is-small">
     <br>
     <div class="container author content has-text-centered">
@@ -95,6 +94,7 @@
       <th><abbr title="Session Description">Session</abbr></th>      
     </tr>
     </thead>
+    <tbody>
     <tr>
     <td>09:00 AM EDT</td>
     <td>Chris Woodruff</td>
@@ -108,7 +108,7 @@
     <td>Matt Eland</td>
     <td><g-link to="/content/sessions/stand-back-i-m-going-to-try-scientist/">Stand back; I'm Going to Try Scientist!</g-link></td>
     </tr>
-     <tr>
+    <tr>
     <td>11:00 AM EDT</td>
     <td>Rob Richardson</td>
     <td><g-link to="/content/sessions/your-technology-your-way-full-stack-web-and-service-with-net-and-node/">Your Technology Your Way: Full-stack Web and Service with .NET and Node</g-link></td>
@@ -133,11 +133,11 @@
     <td>Rob Richardson</td>
     <td><g-link to="/content/sessions/the-definitive-deep-dive-into-the-git-folder/">The definitive deep dive into the .git folder</g-link></td>
     </tr>  
+    </tbody>
    </table>
    <br>
   </div> 
 </section>
-</div>
 </Layout>
 </template>
 
