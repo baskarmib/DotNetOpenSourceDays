@@ -1,27 +1,26 @@
 <template>
-  <Layout> 
-  <div>  
-  <section class="hero is-light is-small">
+<Layout> 
+  <div> 
+  <section class="hero is-light is-small"> 
   <div class="hero-body">
     <div class="container author content has-text-centered">
-      <g-image alt="Author image" class="image" src="~/assets/img/dotNetx.png" />   
+      <g-image alt="Logo" class="image" src="~/assets/img/dotNetx.png" />   
     </div>
   </div>
-</section>
+  </section>
 <section class="hero is-light is-fullheight-with-navbar">  
   <div class="hero-head">
     <div class="container content has-text-centered">   
     <h2 class="subtitle">
     Join us for the first virtual conference on April-17-2020.
     </h2>
-    <br></br>
-    <g-link class="button is-info" to="https://www.eventbrite.com/e/dot-net-open-source-days-virtual-conference-tickets-101833546880">RSVP</g-link>
+    <br>
+    <g-link class="button is-info" to="https://www.eventbrite.com/e/dot-net-open-source-days-virtual-conference-tickets-101833546880">Register</g-link>
     </div>
   </div>
   <div class="hero-body has-text-centered">
   <div class="columns content has-text-centered">
-  <div class="column">
-  <article class="media">
+  <div class="column">  
   <figure class="media-centered">
     <div class="image is-128x128">
       <g-image class="image" alt="Chris Woodruff" src="~/assets/img/chris.jpg" /> 
@@ -31,11 +30,9 @@
         <br>    
         <small>@cwoodruff</small> 
       </div>
-  </figure> 
-  </article>
+  </figure>   
   </div>
-  <div class="column">
- <article class="media">
+  <div class="column"> 
   <figure class="media-centered">
     <div class="image is-128x128">
       <g-image class="image" alt="Matt Eland" src="~/assets/img/Matt.png" /> 
@@ -45,12 +42,9 @@
         <br>    
         <small>@integerman</small> 
       </div>
-  </figure>
- 
-  </article>
+  </figure>  
   </div>
-   <div class="column">
- <article class="media">
+   <div class="column"> 
   <figure class="media-centered">
     <div class="image is-128x128">
       <g-image class="image" alt="Rob Richardson" src="~/assets/img/Rob.png" /> 
@@ -60,12 +54,9 @@
         <br>    
         <small>@rob_rich</small> 
       </div>
-  </figure>
- 
-  </article>
+  </figure> 
   </div>
-   <div class="column">
- <article class="media">
+  <div class="column">
   <figure class="media-centered">
     <div class="image is-128x128">
       <g-image class="image" alt="Ado Kukic" src="~/assets/img/ado.jpg" /> 
@@ -75,11 +66,9 @@
         <br>    
         <small>@KukicAdo</small> 
       </div>
-  </figure> 
-  </article>
+  </figure>  
   </div>
-   <div class="column">
- <article class="media">
+  <div class="column"> 
   <figure class="media-centered">
     <div class="image is-128x128">
       <g-image class="image" alt="Patrick Kelly" src="~/assets/img/patrick.jpg" /> 
@@ -89,9 +78,7 @@
         <br>    
         <small>@pkell7</small> 
       </div>
-  </figure>
- 
-  </article>
+  </figure> 
   </div>
 </div>
 </div>
@@ -99,7 +86,7 @@
    <h2 class="subtitle">
     Schedule
    </h2>
-   <br></br>
+   <br>
    <table class="table">
    <thead>
     <tr>
@@ -147,9 +134,8 @@
     <td><g-link to="/content/sessions/the-definitive-deep-dive-into-the-git-folder/">The definitive deep dive into the .git folder</g-link></td>
     </tr>  
    </table>
-   <br></br>
-  </div>
-  </div>
+   <br>
+  </div> 
 </section>
 </div>
 </Layout>
