@@ -17,5 +17,6 @@ While Scientist is available in many languages, we'll specifically be exploring 
 
 ### Speaker Bio
 
-Matt is a front-line .NET and JavaScript software engineering manager with strong focuses on mentoring, training, architecture, and software quality. Matt enjoys writing technical articles, going on refactoring frenzies, and learning new things.
-He can be reached out on Twitter [@IntegerMan](https://twitter.com/integerman). In his free time he blogs at [Kill All Defects](https://killalldefects.com/).
+Matt is committed to helping people (and their code) achieve greater things. After nearly two decades of working as a professional software engineer, Matt put away his mechanical keyboard and made teaching others his primary job in a continuing quest to invest in the community and up-and-coming developers. Matt has been working with code since 1987 yet constantly discovers new things to learn.
+
+Matt focuses on building quality software applications using C#, F#, TypeScript, Angular, Vue, and plain-old JavaScript. When he's not teaching or coding, Matt writes on software engineering at KillAllDefects.com, builds highly unusual side projects, goes on refactoring frenzies, and enjoys learning new things to share with the community at large. 
