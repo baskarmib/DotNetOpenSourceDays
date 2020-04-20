@@ -7,6 +7,10 @@ date: 2020-04-06
 
 Intermediate
 
+### Slides
+[Slides for talk](https://onedrive.live.com/view.aspx?resid=FB8D81F53E3A56E6!245612&ithint=file%2cpptx&authkey=!AEK6JZW7YOSQ2Zw)
+
+
 ### Description
 
 We aren't in the days of ASCII anymore. UNICODE introduces all sorts of terminology and complexities: code units, scalar values, normalization forms, extended grapheme clusters... There's a lot of complexity, and a lot of bad algorithms out there breaking software for many of the people around the world. But it doesn't have to be that way. There's things being done to make this all easier.
