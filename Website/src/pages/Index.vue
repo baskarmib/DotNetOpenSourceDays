@@ -11,10 +11,9 @@
     <div class="container content has-text-centered">   
     <br>
     <h2 class="subtitle">
-    Join us for the first virtual conference on April-17-2020.
+    Thank you all for joining us at Version 1.0. We will be back in November 2020 for Version 2.0.    
     </h2>
-    <br>
-    <g-link class="button is-info" to="https://www.eventbrite.com/e/dot-net-open-source-days-virtual-conference-tickets-101833546880">Register</g-link>
+    <br>   
     </div>
   </div>
   <div class="hero-body has-text-centered">
