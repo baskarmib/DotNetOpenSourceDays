@@ -7,6 +7,9 @@ date: 2020-04-06
 
 All Levels
 
+### Slides
+[Slides for talk](https://robrich.org/presentations/)
+
 ### Description
 
 What's in the .git folder? How are commits stored? How do branches work? We'll dive deep into the objects folder, unpack commits, look at the types of DAG nodes, examine object content, and build a complete visualization of the stored content. We'll also quickly look through Git hooks, Git config, and ref logs. Come experience the zen of git.
