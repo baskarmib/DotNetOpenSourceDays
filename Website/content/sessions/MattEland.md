@@ -7,6 +7,9 @@ date: 2020-04-06
 
 Intermediate.
 
+### Slides
+[Slides for talk](https://t.co/s53PUBRaTz?amp=1)
+
 ### Description
 
 No matter how much we test our code, end users will always do things differently. This leads to user and data-specific bugs, frustration, and long hours spent diagnosing and debugging production issues. There's got to be a better way. Scientist may be the answer.
