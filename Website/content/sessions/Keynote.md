@@ -7,6 +7,9 @@ date: 2020-04-06
 
 All Levels
 
+### Video
+[Click to watch the talk](https://www.youtube.com/watch?v=QCGQ3KkAugE)
+
 ### Description
 
 Being a Specialist is overrated. Working to have more knowledge than anyone else in a field in your community is keeping you from being the best you can be. 
