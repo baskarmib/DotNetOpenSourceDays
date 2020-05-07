@@ -7,6 +7,9 @@ date: 2020-04-06
 
 Beginner
 
+### Video
+[Click to watch the talk](https://www.youtube.com/watch?v=0dfLlKznvIo)
+
 ### Description
 
 In this talk we’ll dive-deep into NoSQL design patterns such as computed, bucket, tree, and others. In addition to good design patterns, we’ll take a look at some anti-patterns to get a more complete picture of the do’s and don’ts when it comes to designing our NoSQL databases.
