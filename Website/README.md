@@ -1,1 +1,1 @@
-This is my Personal Website and Blog, built using Gridsome, VueJs, Bulma and hosted on Netlify.
+This is my repo holds the website and talk details submitted for DotNet Open Source Days.
