@@ -11,11 +11,14 @@
     <div class="container content has-text-centered">   
     <br>
     <h2 class="subtitle">
-    Thank you all for joining us at Version 1.0. We will be back in November 2020 for Version 2.0.    
+    We are back for Version 2.0. Join us virtually on 18-Dec-2020. Details will be updated soon.    
     </h2>
     <br>   
     </div>
   </div>
+  <h2 class="subtitle">
+    Previous Speakers.
+   </h2>
   <div class="hero-body has-text-centered">
   <div class="columns content has-text-centered">
   <div class="column">  
