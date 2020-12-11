@@ -7,22 +7,22 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "@gridsome/plugin-google-analytics": "^0.1.0",
+    "@gridsome/plugin-google-analytics": "^0.1.2",
     "@gridsome/source-filesystem": "^0.6.2",
-    "@gridsome/transformer-remark": "^0.4.0",
-    "bulma": "^0.8.0",
-    "gridsome": "^0.7.11",
-    "gridsome-plugin-remark-shiki": "^0.3.0",
+    "@gridsome/transformer-remark": "^0.6.4",
+    "bulma": "^0.8.2",
+    "gridsome": "^0.7.23",
+    "gridsome-plugin-remark-shiki": "^0.3.1",
     "gridsome-plugin-remark-twitter": "^0.1.2",
     "gridsome-plugin-rss": "^1.2.0",
-    "node-sass": "^4.13.0",
-    "sass-loader": "^8.0.0",
-    "vue": "^2.6.11",
-    "vue-template-compiler": "^2.6.11"
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
+    "vue": "^2.6.12",
+    "vue-template-compiler": "^2.6.12"
   },
   "devDependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.25",
-    "@fortawesome/free-brands-svg-icons": "^5.11.2",
-    "@fortawesome/vue-fontawesome": "^0.1.8"
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/vue-fontawesome": "^0.1.10"
   }
 }

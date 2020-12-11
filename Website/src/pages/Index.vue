@@ -13,14 +13,16 @@
     <h2 class="subtitle">
     We are back for Version 2.0. Join us virtually on 18-Dec-2020.    
     </h2>
-    <br>   
+    <br>
+    <g-link class="button is-info" to="https://www.eventbrite.com/e/dot-net-open-source-days-virtual-conference-tickets-130081873385">Register</g-link>
+    <br>  
     </div>
   </div>
   <div class="hero-head">
     <div class="container content has-text-centered">   
     <br>
     <h2 class="subtitle">
-    Previous Speakers.   
+    Speakers   
     </h2>
     <br>   
     </div>
@@ -31,52 +33,53 @@
   <div class="column">  
   <figure class="media-centered">
     <div class="image is-128x128">
-      <g-image class="image" alt="Chris Woodruff" src="~/assets/img/chris.jpg" /> 
+      <g-image class="image" alt="Daniel Costea" src="~/assets/img/daniel_costea.jpg" /> 
     </div>
      <div>
-        <strong>Chris Woodruff</strong> 
+        <strong>Daniel Costea</strong> 
         <br>    
-        <small>@cwoodruff</small> 
+        <small>@dfcostea</small> 
       </div>
   </figure>   
   </div>
   <div class="column"> 
   <figure class="media-centered">
     <div class="image is-128x128">
-      <g-image class="image" alt="Matt Eland" src="~/assets/img/Matt.png" /> 
+      <g-image class="image" alt="Luis Beltran" src="~/assets/img/luis_beltran.jpg" /> 
     </div>
      <div>
-        <strong>Matt Eland</strong> 
+        <strong>Luis Beltran</strong> 
         <br>    
-        <small>@integerman</small> 
-      </div>
-  </figure>  
-  </div>
-   <div class="column"> 
-  <figure class="media-centered">
-    <div class="image is-128x128">
-      <g-image class="image" alt="Rob Richardson" src="~/assets/img/Rob.png" /> 
-    </div>
-     <div>
-        <strong>Rob Richardson</strong> 
-        <br>    
-        <small>@rob_rich</small> 
-      </div>
-  </figure> 
-  </div>
-  <div class="column">
-  <figure class="media-centered">
-    <div class="image is-128x128">
-      <g-image class="image" alt="Ado Kukic" src="~/assets/img/ado.jpg" /> 
-    </div>
-     <div>
-        <strong>Ado Kukic</strong> 
-        <br>    
-        <small>@KukicAdo</small> 
+        <small>@darkicebeam</small> 
       </div>
   </figure>  
   </div>
   <div class="column"> 
+  <figure class="media-centered">
+    <div class="image is-128x128">
+      <g-image class="image" alt="Udokaku Ugochukwu" src="~/assets/img/udokaku_ugochukwu.jpg" /> 
+    </div>
+     <div>
+        <strong>Udokaku Ugochukwu</strong> 
+        <br>    
+        <small>@Udoka_Ugo_</small> 
+      </div>
+  </figure>  
+  </div>
+  
+  <div class="column"> 
+  <figure class="media-centered">
+    <div class="image is-128x128">
+      <g-image class="image" alt="Michaël Hompus" src="~/assets/img/michael_hompus.jpg" /> 
+    </div>
+     <div>
+        <strong>Michaël Hompus</strong> 
+        <br>    
+        <small>@eNeRGy164</small> 
+      </div>
+  </figure> 
+  </div>
+   <div class="column"> 
   <figure class="media-centered">
     <div class="image is-128x128">
       <g-image class="image" alt="Patrick Kelly" src="~/assets/img/patrick.jpg" /> 
@@ -85,6 +88,30 @@
         <strong>Patrick Kelly</strong> 
         <br>    
         <small>@pkell7</small> 
+      </div>
+  </figure> 
+  </div>
+   <div class="column"> 
+  <figure class="media-centered">
+    <div class="image is-128x128">
+      <g-image class="image" alt="Ron Dagdag" src="~/assets/img/ron_dagdag.jpg" /> 
+    </div>
+     <div>
+        <strong>Ron Dagdag</strong> 
+        <br>    
+        <small>@rondagdag</small> 
+      </div>
+  </figure> 
+  </div>
+    <div class="column"> 
+  <figure class="media-centered">
+    <div class="image is-128x128">
+      <g-image class="image" alt="Rob Richardson" src="~/assets/img/Rob.png" /> 
+    </div>
+     <div>
+        <strong>Rob Richardson</strong> 
+        <br>    
+        <small>@rob_rich</small> 
       </div>
   </figure> 
   </div>
@@ -105,42 +132,52 @@
     </thead>
     <tbody>
     <tr>
-    <td>09:00 AM EDT</td>
-    <td>Chris Woodruff</td>
-    <td>Keynote - <g-link to="/content/sessions/embracing-your-renaissance-man-or-woman-in-the-digital-age/">
-              Embracing your Renaissance Man (or Woman) in the Digital Age
+    <td>09:00 AM EST</td>
+    <td>Daniel Costea</td>
+    <td><g-link to="/content/sessions/how-to-fight-data-preparation-debt-with-jupyter-notebook-and-data-frame-using-microsoft-ml-net/">
+              How to fight data preparation debt with Jupyter Notebook and DataFrame using Microsoft ML.NET
               </g-link>
               </td>
     </tr>
     <tr>
-    <td>10:00 AM EDT</td>
-    <td>Matt Eland</td>
-    <td><g-link to="/content/sessions/stand-back-i-m-going-to-try-scientist/">Stand back; I'm Going to Try Scientist!</g-link></td>
+    <td>09:50 AM EST</td>
+    <td>Udokaku Ugochukwu</td>
+    <td><g-link to="/content/sessions/taking-the-first-step-into-open-source/">Taking the first step into OpenSource</g-link></td>
     </tr>
     <tr>
-    <td>11:00 AM EDT</td>
-    <td>Rob Richardson</td>
-    <td><g-link to="/content/sessions/your-technology-your-way-full-stack-web-and-service-with-net-and-node/">Your Technology Your Way: Full-stack Web and Service with .NET and Node</g-link></td>
+    <td>10:40 AM EST</td>
+    <td>Luis Beltran</td>
+    <td><g-link to="/content/sessions/open-xml-sdk-managing-office-docs-from-your-net-apps/">Open XML SDK - Managing Office docs from your .NET apps</g-link></td>
     </tr>
     <tr>
-    <td>12:00 PM EDT</td>
+    <td>11:30 AM EST</td>
+    <td>Michaël Hompus</td>
+    <td><g-link to="/content/sessions/use-your-source-code-to-document-your-application/">Use your source code to document your application</g-link></td>
+    </tr>
+    <tr>
+    <td>12:15 PM EST</td>
     <td></td>
     <td>Lunch Break</td>
     </tr>
     <tr>
-    <td>01:00 PM EDT</td>
-    <td>Ado Kukic</td>
-    <td><g-link to="/content/sessions/no-sql-design-patterns-you-need-to-know/">NoSQL Design Patterns You Need to Know</g-link></td>
-    </tr>
-     <tr>
-    <td>02:00 PM EDT</td>
+    <td>01:15 PM EST</td>
     <td>Patrick Kelly</td>
-    <td><g-link to="/content/sessions/text-processing-is-really-complicated/">Text Processing is Really Complicated</g-link></td>
+    <td><g-link to="/content/sessions/overview-of-pattern-combinators/">Overview of Pattern Combinators</g-link></td>
     </tr>
     <tr>
-    <td>03:00 PM EDT</td>
+    <td>02:05 PM EST</td>
     <td>Rob Richardson</td>
-    <td><g-link to="/content/sessions/the-definitive-deep-dive-into-the-git-folder/">The definitive deep dive into the .git folder</g-link></td>
+    <td><g-link to="/content/sessions/level-up-your-dev-ops-with-git-hub-actions-and-asp-net/">Level-up Your DevOps with GitHub Actions and ASP.NET</g-link></td>
+    </tr>
+     <tr>
+    <td>02:55 PM EST</td>
+    <td>Ron Dagdag</td>
+    <td><g-link to="/content/sessions/leverage-power-of-machine-learning-with-onnx/">Leverage Power of Machine Learning with ONNX</g-link></td>
+    </tr>
+    <tr>
+    <td>03:40 PM EST</td>
+    <td></td>
+    <td>Community Networking</td>
     </tr>  
     </tbody>
    </table>
