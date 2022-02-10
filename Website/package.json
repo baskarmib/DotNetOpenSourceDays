@@ -15,7 +15,7 @@
     "gridsome-plugin-remark-shiki": "^0.3.1",
     "gridsome-plugin-remark-twitter": "^0.1.2",
     "gridsome-plugin-rss": "^1.2.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2",
     "vue": "^2.6.12",
     "vue-template-compiler": "^2.6.12"
